@@ -1,0 +1,1 @@
+We use different features such as (Edges/PCA) of the dataset images provided to train a model to identify numbers. We also use different ML models to see what provides the highest accuracy in identifying the test data.
